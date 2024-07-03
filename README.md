@@ -4,8 +4,8 @@
   Sou estudante de Análise e Desenvolvimento de Sistemas, focada em tecnologias como HTML, CSS, PHP, Python e JavaScript. Estou sempre em busca de novos conhecimentos e acompanhando as últimas tendências do desenvolvimento web. No meu GitHub, você vai encontrar vários projetos onde coloco essas skills em prática. Bora aprender e inovar juntos? ✨
 <div>
   <a href="https://www.linkedin.com/in/pamellasiq/">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pamellasiq&show_icons=true&theme=dracula"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellasiq&layout=compact&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pamellasiq&show_icons=true&theme=flag-india"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellasiq&layout=compact&theme=flag-india"/>
 </div>
 <div style="display: inline_block">  <br>
   <img align="center" alt="devPam-HTML" height="30" width="30" src="https://img.icons8.com/?size=100&id=10246&format=png&color=FA5252">
@@ -23,7 +23,7 @@
 
 ##
 <div>
-  <a href = "mailto:contatopamellasiqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatopamellasiqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamellasiq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
