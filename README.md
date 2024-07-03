@@ -12,8 +12,6 @@
   
   <img align="right" alt="devPam-gif" height="150" src="https://media.discordapp.net/attachments/1256337060839690281/1256337114988019773/gif-pam.gif?ex=6680669d&is=667f151d&hm=b9b8547cece39bff04b8623684cea2139a4c9b957d5ad92580ce20ecb3626532&=">
 </div>
-
-##
 <div>
   <a href = "mailto:contatopamellasiqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamellasiq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
