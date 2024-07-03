@@ -4,8 +4,8 @@
   Sou estudante de Análise e Desenvolvimento de Sistemas, focada em tecnologias como HTML, CSS, PHP, Python e JavaScript. Estou sempre em busca de novos conhecimentos e acompanhando as últimas tendências do desenvolvimento web. No meu GitHub, você vai encontrar vários projetos onde coloco essas skills em prática. Bora aprender e inovar juntos? ✨
 <div>
   <a href="https://www.linkedin.com/in/pamellasiq/">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pamellasiq&show_icons=true&theme=dracula"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellasiq&layout=compact&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pamellasiq&show_icons=true&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellasiq&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block">  <br>
   <img align="center" alt="devPam-HTML" height="30" width="30" src="https://img.icons8.com/?size=100&id=10246&format=png&color=FA5252">
