@@ -17,7 +17,7 @@
   <img align="center" alt="devPam-Php" height="30" width="30" src="https://img.icons8.com/?size=100&id=10232&format=png&color=228BE6">
   <img align="center" alt="devPam-Ps" height="30" width="30" src="https://img.icons8.com/?size=100&id=11113&format=png&color=000000" />
   <img align="center" alt="devPam-Ai" height="25" width="25" src="https://img.icons8.com/?size=100&id=6nVfKqkrGRxh&format=png&color=000000" />
-  <img align="center" alt="devPam-react" height="30" width="30" src="https://img.icons8.com/?size=100&id=9vlfB9hjA1lX&format=png&color=000000" />
+  <img align="center" alt="devPam-mysql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="right" alt="devPam-gif" height="150" src="https://media.discordapp.net/attachments/1256337060839690281/1256337114988019773/gif-pam.gif?ex=6680669d&is=667f151d&hm=b9b8547cece39bff04b8623684cea2139a4c9b957d5ad92580ce20ecb3626532&=">
 </div>
 
@@ -27,6 +27,9 @@
   <a href="https://www.linkedin.com/in/pamellasiq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/pamellasiq/pamellasiq/blob/output/github-contribution-grid-snake.svg)
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
