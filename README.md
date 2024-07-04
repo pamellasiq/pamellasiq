@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8795&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+P%C3%A2mella+Siqueira!" alt="Typing SVG" /></a>
-### Front-end web developer 💻
+### ☆*: .｡. Front-end web developer .｡.:*☆ 
   Sou estudante de Análise e Desenvolvimento de Sistemas, focada em tecnologias como HTML, CSS, PHP, Python e JavaScript. Estou sempre em busca de novos conhecimentos e acompanhando as últimas tendências do desenvolvimento web. No meu GitHub, você vai encontrar vários projetos onde coloco essas skills em prática. Bora aprender e inovar juntos? ✨
 
 <img align="right" alt="devPam-gif" height="200px" src="https://media.discordapp.net/attachments/1256337060839690281/1256337114988019773/gif-pam.gif?ex=6680669d&is=667f151d&hm=b9b8547cece39bff04b8623684cea2139a4c9b957d5ad92580ce20ecb3626532&=">
