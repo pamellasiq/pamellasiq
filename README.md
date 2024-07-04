@@ -17,8 +17,8 @@
 <div>
   <h3> ☆*: .｡. GitHub Stats .｡.:*☆ </h3>
   <a href="https://www.linkedin.com/in/pamellasiq/">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pamellasiq&show_icons=true&theme=dracula"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellasiq&layout=compact&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pamellasiq&show_icons=true&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamellasiq&layout=compact&theme=dracula"/>
 </div>
     
 <picture align="center">
