@@ -28,11 +28,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          color_snake: "#fb8795"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-light.svg?palette=github-light
-          
+            color_snake: "#fb8795"
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
