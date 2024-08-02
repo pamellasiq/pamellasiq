@@ -2,8 +2,6 @@
 ### ☆*: .｡. Front-end web developer .｡.:*☆ 
   Sou estudante de Análise e Desenvolvimento de Sistemas, focada em tecnologias como HTML, CSS, PHP, Python e JavaScript. Estou sempre em busca de novos conhecimentos e acompanhando as últimas tendências do desenvolvimento web. No meu GitHub, você vai encontrar vários projetos onde coloco essas skills em prática. Bora aprender e inovar juntos? ✨
 
-<img align="right" alt="devPam-gif" height="200px" src="https://media.discordapp.net/attachments/1256337060839690281/1256337114988019773/gif-pam.gif?ex=6680669d&is=667f151d&hm=b9b8547cece39bff04b8623684cea2139a4c9b957d5ad92580ce20ecb3626532&=">
-
 <div>
   <h3>☆*: .｡. Connect with me! .｡.:*☆</h3>
   <a href = "mailto:contatopamellasiqueira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
