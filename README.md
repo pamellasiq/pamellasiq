@@ -12,7 +12,7 @@
 
 <h3>☆*: .｡. My Skills .｡.:*☆</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,ps,figma,py,php,mysql&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,&theme=dark)](https://skillicons.dev)
  
 <div>
   <h3> ☆*: .｡. GitHub Stats .｡.:*☆ </h3>
