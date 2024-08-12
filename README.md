@@ -26,32 +26,6 @@
 </p>
 
 </tr>
-
-<tr>
-<td style="width:30%;>
-    
-    
-    Frontend Developer ♥︎
-
-    
-    Sou estudante de Análise e Desenvolvimento de Sistemas, focada em tecnologias como HTML, CSS, PHP, JavaScript e Java.
-                                              
-</td>
-<td style="width:10%;>
-                                                  
-                                                                                                  
-                                                                                                    
-        
-    My Skills ♥︎
-
-    │Web
-        ┗ ▸  html
-          ▸  css
-          ▸  javascript
-          ▸  php
-
-                                              
-</td>
 </table>
 <div>
   <h3> ☆*: .｡. GitHub Stats .｡.:*☆ </h3>
