@@ -28,7 +28,7 @@
 </tr>
 
 <tr>
-<td style="width:10%;>
+<td style="width:30%;>
     
     Frontend Developer ♥︎
 
